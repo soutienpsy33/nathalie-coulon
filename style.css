@@ -5,6 +5,7 @@ body {
   font-weight: 400 !important;
   letter-spacing: .03125rem;
   font-size: 16px;
+  text-align: justify;
 }
 
 @media(min-width: 768px) {
