@@ -24,8 +24,8 @@ a {
   color: #333f47!important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'EB Garamond', serif;
+h1, h2, h3, h4, .h5, h5, h6 {
+  font-family: 'EB Garamond', serif !important;
   font-weight: 400;
 }
 
@@ -160,24 +160,24 @@ h3::before {
 
 .btn-blue:hover {
   color: white !important;
-  background-color: #c49d9e;
+  background-color: #BA8C8D;
 }
 
 .btn-pink {
   color: white !important;
-  background-color: #c49d9e;
+  background-color: #BA8C8D;
   transition: background 0.3s ease;
   font-weight: 600;
 }
 
 .btn-pink:hover {
-  background: #c49d9e !important;
+  background: #BA8C8D !important;
   color: white !important;
 }
 
 
 .pink-100 {
-  color: #c49d9e;
+  color: #BA8C8D;
 }
 
 .bg-pink10 {
@@ -185,7 +185,7 @@ h3::before {
 }
 
 .pink-box {
-  background-color: #c49d9e;
+  background-color: #BA8C8D;
   color: white;
   padding: 16px;
 }
