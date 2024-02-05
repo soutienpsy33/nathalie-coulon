@@ -365,7 +365,7 @@ h3::before {
     margin-right: auto !important;
     margin-left: auto !important;
   }
-  .col-md-8, .right-col {
+  .right-col {
     padding-left: 32px !important;
     padding-right: 0 !important;
   }
